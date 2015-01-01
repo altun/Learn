@@ -11,7 +11,7 @@ class Robot
 
 
 	# sınıfı ilklendir. Sınıf ile ilgili ilk ayarlamaları burada yap.
-	def initialize(isim, sahip)
+	def initialize(isim, memleket)
 		@isim, @memleket = isim, memleket
 	end
 
